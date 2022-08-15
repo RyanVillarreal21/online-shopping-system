@@ -1,0 +1,10 @@
+Laptop, Acer Gaming Laptop, 499.99, 399.99
+Monitor, Dell 24 inch Monitor, 199.99, 149.99
+Mouse, Razor Wireless Mouse, 24.99, 19.99
+Keyboard, HP Wired Keyboard, 19.99, 15.99
+RTX-3080, Nvidia RTX GPU, 999.99, 949.99
+RTX-3060, Nvidia RTX GPU, 499.99, 399.99
+HDMI-Cable, Basic 6ft HDMI Cable, 9.99, 7.99
+Headset, Razor Headset 7.1 Surround Sound, 149.99, 124.99
+USB-C-Cable, Basic USB type c Cable, 14.99, 9.99
+Ryzen-Threadripper, Ryzen 3990x CPU, 499.99, 449.99

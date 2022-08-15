@@ -1,0 +1,5 @@
+ryavilla,2 Monitor 1 Headset 1 Mouse,$574.96,00000001,shipped,1/12/2021,Credit Card
+brayd,1 headset,$149.99,00000002,ready,3/30/2021,Credit Card
+setrid,2 laptop,$799.98,00000003,ordered,4/15/2021,Credit Card
+ryavilla,1 Laptop 1 Mouse 2 Monitor 2 RTX-3080,$2927.94,1229,ordered,04/27/2021,Credit Card
+setrid,1 RTX-3080 1 RTX-3060,$1352.98,4688,ordered,04/28/2021,Credit Card
