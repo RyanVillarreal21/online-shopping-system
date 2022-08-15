@@ -1,8 +1,3 @@
 tonstak,667466,Tony,4585 Avengers Lane Corinth NY 745623,945-785-6584,0,Supplier
-ryavilla,032421,Ryan,2758 Seras Road Lubbock TX 79407,940-635-7946,0,Regular
-setrid,091699,Seth,4542 Deer Road Gainesville TX 79405,784-456-7845,1,Premium
-matpad,849672,Matt,7845 Mac Drive Lubbock TX 78465,7845-963-7316,0,Supplier
-darjac,342964,Darrel,4863 Mac Drive Lubbock TX 79405,210-465-8945,1,Premium
-brayd,080520,Brayden,7845 Charlie Lane Dallas TX 78456,940-316-8961,0,Regular
 chavill,031703,Chase,2108 Edith Street Denton TX 76210,941-745-8465,0,Regular
 gabcoyot,121364,Gabriel,1213 Lamar Street Ranger TX 76470,254-426-6214,1,Premium
